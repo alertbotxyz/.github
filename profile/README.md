@@ -1,0 +1,2 @@
+# alertbot
+Alerting made easy
