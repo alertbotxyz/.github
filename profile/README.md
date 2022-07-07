@@ -1,8 +1,8 @@
 # alertbot
 
-Alerting, made easy.
+Alerting, made easy. Alertbot allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
-Alertbot allows you to create templates to enable alerting with maximum customisability. You can fully edit what your alert embed looks like and you can add parameters to the template.
+With alertbot you can create templates to enable highly customisable alerting. You can fully edit what your alert embed looks like and you can add parameters to the template.
 
 Once you have created all the templates you need you can add servers to alert to. When you see a market opportunity enter values for your preset parameters and send the alert to all servers in one click.
 
