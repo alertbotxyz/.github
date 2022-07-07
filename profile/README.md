@@ -22,6 +22,8 @@ Read the [blog](https://alert-bot.xyz/info/blog) or submit a [review](https://al
 
 Message me on discord: oscarッ#0671
 
+Tweet at us: @alertbotxyz
+
 Join the support server: https://discord.com/invite/WpQT3jzfum
 
 Email contact: contact@alert-bot.xyz
