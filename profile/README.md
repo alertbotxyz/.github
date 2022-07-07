@@ -1,6 +1,8 @@
 # alertbot
 
-Alerting, made easy. Alertbot allows you to get alerts out to your users with maximum simplicity and minimum latency.
+Alerting, made easy.
+
+Alertbot allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
 With alertbot you can create templates to enable highly customisable alerting. You can fully edit what your alert embed looks like and you can add parameters to the template.
 
