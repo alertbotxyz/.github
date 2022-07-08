@@ -28,6 +28,4 @@ Join the support server: https://discord.com/invite/WpQT3jzfum
 
 Email contact: contact@alert-bot.xyz
 
-Legal issues: legal@alert-bot.xyz
-
 Direct contact: ceo@alert-bot.xyz
