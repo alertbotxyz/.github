@@ -18,6 +18,8 @@ View the [terms of service](https://alert-bot.xyz/legal/terms) and [privacy poli
 
 Read the [blog](https://alert-bot.xyz/info/blog) or submit a [review](https://alert-bot.xyz/info/reviews)
 
+Check alertbot's [status](https://status.alert-bot.xyz)
+
 # Contact
 
 Message me on discord: oscarッ#0671
