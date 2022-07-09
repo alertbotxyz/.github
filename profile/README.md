@@ -20,6 +20,8 @@ Read the [blog](https://alert-bot.xyz/info/blog) or submit a [review](https://al
 
 Check alertbot's [status](https://status.alert-bot.xyz)
 
+Read alertbot's [documentation](https://alert-bot.xyz/docs)
+
 # Contact
 
 Message me on discord: oscarッ#0671
