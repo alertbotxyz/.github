@@ -10,7 +10,7 @@ Once you have created all the templates you need you can add servers to alert to
 
 Alertbot saves your alerts so you can view them a reflect back upon past alerts.
 
-# USEFUL LINKS
+# Useful Links
 
 Join the [support server](https://alert-bot.xyz/redirect?link=support-server) to get help with Alertbot and chat with the community
 
