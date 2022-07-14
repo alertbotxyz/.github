@@ -22,6 +22,8 @@ Check alertbot's [status](https://status.alert-bot.xyz)
 
 Read alertbot's [documentation](https://alert-bot.xyz/docs)
 
+Support us on [patreon](https://www.patreon.com/alertbotxyz)!
+
 # Contact
 
 Message me on discord: oscarッ#0671
