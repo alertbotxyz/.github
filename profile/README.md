@@ -12,15 +12,15 @@ Alertbot saves your alerts so you can view them a reflect back upon past alerts.
 
 # Useful Links
 
-Join the [support server](https://alert-bot.xyz/redirect?link=support-server) to get help with Alertbot and chat with the community
+Join the [support server](https://alertbot.netlify.app/redirect?link=support-server) to get help with Alertbot and chat with the community
 
-View the [terms of service](https://alert-bot.xyz/legal/terms) and [privacy policy](https://alert-bot.xyz/legal/privacy)
+View the [terms of service](https://alertbot.netlify.app/legal/terms) and [privacy policy](https://alertbot.netlify.app/legal/privacy)
 
-Read the [blog](https://alert-bot.xyz/info/blog) or submit a [review](https://alert-bot.xyz/info/reviews)
+Read the [blog](https://alertbot.netlify.app/info/blog) or submit a [review](https://alertbot.netlify.app/info/reviews)
 
-Check alertbot's [status](https://status.alert-bot.xyz)
+Check alertbot's [status](https://status.alertbot.netlify.app)
 
-Read alertbot's [documentation](https://alert-bot.xyz/docs)
+Read alertbot's [documentation](https://alertbot.netlify.app/docs)
 
 Support us on [patreon](https://www.patreon.com/alertbotxyz)!
 
@@ -32,6 +32,4 @@ Tweet at us: [@alertbotxyz](https://twitter.com/alertbotxyz)
 
 Join the support server: https://discord.com/invite/WpQT3jzfum
 
-Email contact: contact@alert-bot.xyz
-
-Direct contact: ceo@alert-bot.xyz
+Email contact: alertbotceo@gmail.com
